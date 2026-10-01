@@ -26,7 +26,7 @@ Lab2Web/
 
 ### 1. Membuat Tabel Data Mahasiswa
 
-Pada langkah ini, kita membuat tabel dasar menggunakan elemen `<table>`, `<tr>`, `<th>`, dan `<td>` dengan atribut `border="1"` untuk menyajikan data mahasiswa ke dalam bentuk baris dan kolom.
+Pada langkah ini, kita membuat tabel dasar pakai elemen `<table>`, `<tr>`, `<th>`, dan `<td>` dengan atribut `border="1"` untuk menyajikan data mahasiswa ke dalam bentuk baris dan kolom.
 
 <img src="Screenshot/kode1.png">
 <img src="Screenshot/hasil1.png">
